@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{8A9E1ACC-3A0F-4446-BE3C-C81630FA23D7}]@="S_MyClassFactoryDll"
+[HKEY_CLASSES_ROOT\CLSID\{8A9E1ACC-3A0F-4446-BE3C-C81630FA23D7}\InprocServer32]@="D:\Personal\win32\ClassFactoryDllServerWithRegFile\Debug\ClassFactoryDllServerWithRegFile.dll"
